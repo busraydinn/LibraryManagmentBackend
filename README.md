@@ -19,20 +19,8 @@ Node.js ve Express.js kullanılarak geliştirilmiş basit bir **REST API** proje
 
 ## 📁 Proje Yapısı
 
-```text
-LibraryProjectBackend/
-│
-├── data/
-│   └── books.json
-│
-├── routes/
-│   └── books.js
-│
-├── server.js
-├── package.json
-├── .gitignore
-└── README.md
-```
+<img width="292" height="272" alt="image" src="https://github.com/user-attachments/assets/d318b595-cb3f-4ab5-b92a-c142e4ffa22d" />
+
 
 ## ⚙️ Kurulum
 
