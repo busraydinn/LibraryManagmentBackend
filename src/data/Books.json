@@ -1,0 +1,347 @@
+[
+  {
+    "id": 1,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "published_year": 1813,
+    "genres": ["Classic", "Romance"],
+    "is_available": true,
+    "stock": 7,
+    "price": 7.99,
+    
+    "dimensions": { "pages": 432, "format": "Paperback" }
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "published_year": 1949,
+    "genres": ["Dystopian", "Sci-Fi"],
+    "is_available": true,
+    "stock": 14,
+    "price": 9.99,
+    
+    "dimensions": { "pages": 328, "format": "Paperback" }
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "published_year": 1925,
+    "genres": ["Classic", "Tragedy"],
+    "is_available": true,
+    "stock": 21,
+    "price": 14.95,
+    
+    "dimensions": { "pages": 180, "format": "Paperback" }
+  },
+  {
+    "id": 4,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "published_year": 1979,
+    "genres": ["Comedy", "Sci-Fi"],
+    "is_available": true,
+    "stock": 28,
+    "price": 15.0,
+    
+    "dimensions": { "pages": 224, "format": "Hardcover" }
+  },
+  {
+    "id": 5,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "published_year": 1960,
+    "genres": ["Classic", "Drama"],
+    "is_available": true,
+    "stock": 35,
+    "price": 10.99,
+    
+    "dimensions": { "pages": 281, "format": "Paperback" }
+  },
+  {
+    "id": 6,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "published_year": 1937,
+    "genres": ["Fantasy", "Adventure"],
+    "is_available": true,
+    "stock": 42,
+    "price": 12.5,
+    
+    "dimensions": { "pages": 310, "format": "Paperback" }
+  },
+  {
+    "id": 7,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "published_year": 1953,
+    "genres": ["Dystopian", "Sci-Fi"],
+    "is_available": true,
+    "stock": 49,
+    "price": 8.99,
+    
+    "dimensions": { "pages": 256, "format": "Paperback" }
+  },
+  {
+    "id": 8,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "published_year": 1851,
+    "genres": ["Classic", "Adventure"],
+    "is_available": true,
+    "stock": 6,
+    "price": 11.25,
+    
+    "dimensions": { "pages": 635, "format": "Hardcover" }
+  },
+  {
+    "id": 9,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "published_year": 1869,
+    "genres": ["Classic", "Historical Fiction"],
+    "is_available": true,
+    "stock": 13,
+    "price": 18.0,
+    
+    "dimensions": { "pages": 1225, "format": "Paperback" }
+  },
+  {
+    "id": 10,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "published_year": 1951,
+    "genres": ["Classic", "Fiction"],
+    "is_available": true,
+    "stock": 20,
+    "price": 9.5,
+    
+    "dimensions": { "pages": 277, "format": "Paperback" }
+  },
+  {
+    "id": 11,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "published_year": 1954,
+    "genres": ["Fantasy", "Epic"],
+    "is_available": true,
+    "stock": 27,
+    "price": 25.0,
+    
+    "dimensions": { "pages": 1178, "format": "Paperback" }
+  },
+  {
+    "id": 12,
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "published_year": 1950,
+    "genres": ["Fantasy", "Children"],
+    "is_available": true,
+    "stock": 34,
+    "price": 19.99,
+    
+    "dimensions": { "pages": 767, "format": "Hardcover" }
+  },
+  {
+    "id": 13,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "published_year": 1945,
+    "genres": ["Classic", "Satire"],
+    "is_available": true,
+    "stock": 41,
+    "price": 7.5,
+    
+    "dimensions": { "pages": 112, "format": "Paperback" }
+  },
+  {
+    "id": 14,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "published_year": 1932,
+    "genres": ["Dystopian", "Sci-Fi"],
+    "is_available": true,
+    "stock": 48,
+    "price": 10.2,
+    
+    "dimensions": { "pages": 268, "format": "Paperback" }
+  },
+  {
+    "id": 15,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "published_year": -800,
+    "genres": ["Classic", "Poetry"],
+    "is_available": true,
+    "stock": 5,
+    "price": 8.95,
+    
+    "dimensions": { "pages": 416, "format": "Paperback" }
+  },
+  {
+    "id": 16,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "published_year": 1866,
+    "genres": ["Classic", "Psychological"],
+    "is_available": true,
+    "stock": 12,
+    "price": 11.99,
+    
+    "dimensions": { "pages": 545, "format": "Hardcover" }
+  },
+  {
+    "id": 17,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "published_year": 1880,
+    "genres": ["Classic", "Philosophical"],
+    "is_available": true,
+    "stock": 19,
+    "price": 13.5,
+    
+    "dimensions": { "pages": 796, "format": "Paperback" }
+  },
+  {
+    "id": 18,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "published_year": 1818,
+    "genres": ["Horror", "Sci-Fi"],
+    "is_available": true,
+    "stock": 26,
+    "price": 6.99,
+    
+    "dimensions": { "pages": 280, "format": "Paperback" }
+  },
+  {
+    "id": 19,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "published_year": 1897,
+    "genres": ["Horror", "Gothic"],
+    "is_available": true,
+    "stock": 33,
+    "price": 7.99,
+    
+    "dimensions": { "pages": 418, "format": "Paperback" }
+  },
+  {
+    "id": 20,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "published_year": 1890,
+    "genres": ["Classic", "Gothic"],
+    "is_available": true,
+    "stock": 40,
+    "price": 8.5,
+    
+    "dimensions": { "pages": 254, "format": "Hardcover" }
+  },
+  {
+    "id": 21,
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "published_year": 1915,
+    "genres": ["Classic", "Absurdist"],
+    "is_available": true,
+    "stock": 47,
+    "price": 6.5,
+    
+    "dimensions": { "pages": 100, "format": "Paperback" }
+  },
+  {
+    "id": 22,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "published_year": 1844,
+    "genres": ["Adventure", "Historical Fiction"],
+    "is_available": true,
+    "stock": 4,
+    "price": 15.99,
+    
+    "dimensions": { "pages": 1276, "format": "Paperback" }
+  },
+  {
+    "id": 23,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "published_year": 1862,
+    "genres": ["Classic", "Historical Fiction"],
+    "is_available": true,
+    "stock": 11,
+    "price": 16.5,
+    
+    "dimensions": { "pages": 1462, "format": "Paperback" }
+  },
+  {
+    "id": 24,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "published_year": 1605,
+    "genres": ["Classic", "Satire"],
+    "is_available": true,
+    "stock": 18,
+    "price": 14.0,
+    
+    "dimensions": { "pages": 1072, "format": "Hardcover" }
+  },
+  {
+    "id": 25,
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "published_year": 1320,
+    "genres": ["Classic", "Poetry"],
+    "is_available": true,
+    "stock": 25,
+    "price": 12.99,
+    
+    "dimensions": { "pages": 798, "format": "Paperback" }
+  },
+  {
+    "id": 26,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "published_year": 1988,
+    "genres": ["Fiction", "Philosophical"],
+    "is_available": true,
+    "stock": 32,
+    "price": 11.5,
+    
+    "dimensions": { "pages": 163, "format": "Paperback" }
+  },
+  {
+    "id": 27,
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "published_year": 1943,
+    "genres": ["Children", "Philosophical"],
+    "is_available": true,
+    "stock": 39,
+    "price": 9.0,
+    
+    "dimensions": { "pages": 96, "format": "Paperback" }
+  },
+  {
+    "id": 28,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "published_year": 1967,
+    "genres": ["Classic", "Magical Realism"],
+    "is_available": true,
+    "stock": 46,
+    "price": 13.99,
+    
+    "dimensions": { "pages": 417, "format": "Hardcover" }
+  },
+  {
+    "id": 29,
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "published_year": 1952,
+    "genres": ["Classic", "Fiction"],
+    "is_available": true,
+    "stock": 3,
+    "price": 8.0,
+"image_url": "openlibrary.org","dimensions": { "pages": 1277, "format": "Paperback" }},{"id": 30,"title": "The Iliad","author": "Homer","published_year": -750,"genres": ["Classic", "Poetry"],"is_available": true,"stock": 10,"price": 8.95,"image_url": "openlibrary.org","dimensions": { "pages": 683, "format": "Paperback" }}]
