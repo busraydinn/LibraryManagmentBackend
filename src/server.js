@@ -3,7 +3,7 @@ const cors=require("cors")
 const app=express();
 const PORT=3000;
 const booksRoutes=require("./routes/BooksRoutes");
-app.use(cors());
+ app.use(express.json());
 
 app.use("/books",booksRoutes);
  
